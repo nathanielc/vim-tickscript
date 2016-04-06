@@ -62,9 +62,13 @@ hi def link     tickDuration         Number
 syn match       tickDot              /\./
 
 " Pipe
-syn match       tickPipe              /|/
+syn match       tickPipe             /|/
+
+" At
+syn match       tickAt               /@/
 
 hi def link     tickDot              SpecialChar
 hi def link     tickPipe             SpecialChar
+hi def link     tickAt               SpecialChar
 
 let b:current_syntax = "tick"
