@@ -41,7 +41,7 @@ These options are available:
 " g:tick_fmt_command [default="tickfmt"]
 
 " Whether to format on save
-" g:tick_fmt_autsave [default=1]
+" g:tick_fmt_autosave [default=1]
 
 " Whether to enable experimental features that do a better job of preserving cursor, undo history etc.
 " g:tick_fmt_experimental [default=0]

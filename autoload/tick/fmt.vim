@@ -29,7 +29,7 @@ if !exists("g:tick_fmt_command")
     let g:tick_fmt_command = "tickfmt"
 endif
 
-if !exists('g:tick_fmt_autsave')
+if !exists('g:tick_fmt_autosave')
     let g:tick_fmt_autosave = 1
 endif
 
