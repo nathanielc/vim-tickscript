@@ -1,4 +1,4 @@
-# Vim Support for [TICKscript](https://docs.influxdata.com/kapacitor/v0.11/tick/)
+# Vim Support for [TICKscript](https://docs.influxdata.com/kapacitor/latest/tick/)
 
 
 ## Syntax highlighting
